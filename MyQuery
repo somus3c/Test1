@@ -1,2 +1,4 @@
 Select * from abc;
 Select * from user_tables;
+
+select * from account;
